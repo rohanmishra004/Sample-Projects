@@ -1,0 +1,39 @@
+body{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    border-radius: 3rem;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    background: linear-gradient(to right, #4f5a54, #4b4b5a);
+
+}
+
+
+.heading{
+    font-weight: 500;
+    font-size:2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+}
+
+.profile-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 5%;
+    border-radius: 50%;
+}
+
+.info{
+    margin: 11px;
+    line-height-step: 2px;
+    padding: 25px 25px;
+}
